@@ -41,4 +41,8 @@ def fill_word_template(excel_file="source.xlsx", template_file="template.docx",
     print(f"✔ Document created: {output_file}")
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     fill_word_template()
+=======
+    fill_word_template()
+>>>>>>> c397f18436e07f2cba7937ccc10fdd195cae5149
