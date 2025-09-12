@@ -74,3 +74,10 @@ pip install --upgrade pip
 pip install pyinstaller openpyxl python-docx
 pyinstaller --onefile main.py
 ```
+
+
+
+
+# GUI VERSION:
+<img width="853" height="728" alt="image" src="https://github.com/user-attachments/assets/c25304ec-3f8e-46f2-9026-d867a698ce2a" />
+
